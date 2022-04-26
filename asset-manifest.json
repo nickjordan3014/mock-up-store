@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/mock-up-store/static/js/app.7dc0d5f4.chunk.js",
+    "app.js.map": "/mock-up-store/static/js/app.7dc0d5f4.chunk.js.map",
+    "runtime~app.js": "/mock-up-store/static/js/runtime~app.88111823.js",
+    "runtime~app.js.map": "/mock-up-store/static/js/runtime~app.88111823.js.map",
+    "static/js/2.5eed398b.chunk.js": "/mock-up-store/static/js/2.5eed398b.chunk.js",
+    "static/js/2.5eed398b.chunk.js.map": "/mock-up-store/static/js/2.5eed398b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/mock-up-store/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/mock-up-store/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/mock-up-store/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/mock-up-store/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/mock-up-store/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/mock-up-store/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/mock-up-store/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/mock-up-store/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/mock-up-store/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/mock-up-store/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/mock-up-store/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/mock-up-store/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/mock-up-store/favicon-16.png",
+    "favicon-32.png": "/mock-up-store/favicon-32.png",
+    "favicon.ico": "/mock-up-store/favicon.ico",
+    "index.html": "/mock-up-store/index.html",
+    "manifest.json": "/mock-up-store/manifest.json",
+    "serve.json": "/mock-up-store/serve.json",
+    "static/js/2.5eed398b.chunk.js.LICENSE.txt": "/mock-up-store/static/js/2.5eed398b.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/mock-up-store/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/mock-up-store/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/mock-up-store/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/mock-up-store/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.88111823.js",
+    "static/js/2.5eed398b.chunk.js",
+    "static/js/app.7dc0d5f4.chunk.js"
+  ]
+}
